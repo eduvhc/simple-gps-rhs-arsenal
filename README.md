@@ -17,4 +17,4 @@ Source: https://github.com/eduvhc/simple-gps-rhs-arsenal
 - Adds one GPS entry to the RHS AFRF Equipment catalog.
 - Sets the supply cost to zero.
 
-This addon contains only catalog overlays. It does not include or redistribute assets or code from either dependency.
+This addon contains only two catalog overrides (same GUID as the RHS `USMC_InventoryItems.conf` and `MSV_InventoryItems.conf`, delta-merged by the engine). It does not include or redistribute assets or code from either dependency.
