@@ -1,0 +1,12 @@
+GenericEntity : "{1B76F75A3175E85C}Prefabs/MP/Modes/Plain/GameMode_Plain.et" {
+ coords 1020 7 1030
+}
+GenericEntity : "{4A188E44289B9A50}Prefabs/MP/Managers/Factions/FactionManager_Editor.et" {
+ coords 1021 7 1030
+}
+GenericEntity : "{3970981B94D3F882}Prefabs/Systems/Arsenal/ArsenalBoxes/US/ArsenalBox_USMC.et" {
+ coords 1023.234 7 1034.451
+}
+GenericEntity : "{FB95D1B918E908A9}Prefabs/Systems/Arsenal/ArsenalBoxes/USSR/ArsenalBox_RHS.et" {
+ coords 1027 7 1034.451
+}
