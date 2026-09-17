@@ -1,5 +1,7 @@
 # Simple GPS for RHS Arsenal
 
+![Simple GPS for RHS Arsenal](Docs/Assets/image.png)
+
 An unofficial compatibility addon that adds the Simple GPS handheld receiver to the Equipment category of the RHS USAF and AFRF arsenals.
 
 Source: https://github.com/eduvhc/simple-gps-rhs-arsenal
